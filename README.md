@@ -84,10 +84,121 @@ In this case, sales and inventory data were siloed, requiring manual merging and
   - KPI tracking (Revenue, Orders, Profit, Low Stock Items)  
   - Time-series analysis  
   - Regional and category breakdowns  
-  - Inventory alerts  
 
 - Implemented **slicers** for dynamic filtering:
   - Region  
   - Category  
   - Time  
 
+---
+
+## 📈 Key Insights
+
+- The **West region** is the top-performing region in revenue generation  
+- **Computers and Mobile categories** drive the majority of total revenue  
+- **18 SKUs fall below reorder level**, indicating potential stockout risks  
+- Sales exhibit **monthly variability**, with a dip in February followed by recovery 
+
+---
+
+## 💡 Business Recommendations
+
+### 📦 Inventory Optimization
+- Prioritize replenishment for SKUs below reorder levels  
+- Implement automated reorder triggers to reduce stockout risk  
+
+---
+
+### 📊 Sales Strategy
+- Increase focus on high-performing regions (e.g., West) through targeted campaigns  
+- Investigate underperforming regions for growth opportunities  
+
+---
+
+### 🛒 Product Strategy
+- Allocate more resources to high-performing categories (Computers, Mobile)  
+- Reassess low-performing categories to optimize product mix  
+
+---
+
+### ⚙️ Process Improvement
+- Adopt automated reporting workflows to reduce manual effort  
+- Standardize data pipelines for consistent and scalable reporting  
+
+---
+
+## 🚀 Impact
+
+- Reduced manual reporting time by **80%+**  
+- Improved data accuracy and consistency  
+- Enabled near real-time reporting with one-click refresh  
+- Enhanced decision-making with centralized insights  
+- Introduced proactive inventory risk monitoring  
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Excel  
+- Power Query (ETL & Data Transformation)  
+- Pivot Tables & Pivot Charts  
+- Data Modeling & Aggregation  
+- Dashboard Design  
+
+---
+
+## 🧠 Key Skills Demonstrated
+
+- Data analysis & business intelligence  
+- Data cleaning and transformation  
+- SQL-like joins and aggregation (Power Query)  
+- Process automation  
+- Dashboard development & data visualization  
+- Problem-solving and analytical thinking  
+
+---
+
+## 💼 Relevance to Analyst Roles
+
+This project demonstrates capabilities aligned with:
+
+- Data Analyst / Business Analyst roles  
+- Inventory & Operations Analytics  
+- Campaign performance analysis  
+- Data-driven decision support  
+
+### Relevant competencies:
+- Data consolidation and analysis  
+- Troubleshooting data inconsistencies  
+- Building scalable reporting solutions  
+- Identifying process efficiencies  
+- Translating data into actionable insights  
+
+---
+
+## 🔄 How to Use
+
+1. Update source data (sales/inventory files)  
+2. Click **Refresh All** in Excel  
+3. Use slicers to filter insights  
+4. Review KPIs and operational insights  
+
+---
+
+## 📎 Project Files
+
+- `Dashboard.xlsx` – Interactive dashboard  
+- `Clean_Data.xlsx` – Processed dataset  
+- Dashboard screenshots  
+
+---
+
+## 📬 Contact
+
+Open to opportunities in data analytics, operations, and business intelligence.
+
+---
+
+## ⭐ Final Note
+
+This project demonstrates the ability to **design end-to-end data solutions**, from raw data transformation to business insight delivery—key for modern analytics roles.
