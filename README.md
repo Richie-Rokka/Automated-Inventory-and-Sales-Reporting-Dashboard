@@ -1,2 +1,9 @@
-# Automated-Inventory-and-Sales-Reporting-Dashboard
-Automated Excel dashboard built using Power Query and data modeling to analyze sales and inventory performance, reducing manual reporting effort by 80%.
+# 📊 Automated Inventory & Sales Reporting Dashboard
+
+## 📌 Project Overview
+
+This project showcases the development of an **automated data analytics solution** using Excel to streamline reporting, improve data accuracy, and deliver actionable business insights.
+
+By leveraging **Power Query, structured data modeling, and interactive dashboards**, the solution transforms raw operational data into a scalable reporting system that supports decision-making across sales and inventory functions.
+
+---
