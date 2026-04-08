@@ -15,3 +15,9 @@ This project showcases the development of an **automated data analytics solution
 By leveraging **Power Query, structured data modeling, and interactive dashboards**, the solution transforms raw operational data into a scalable reporting system that supports decision-making across sales and inventory functions.
 
 ---
+
+## 📊 Dashboard Preview
+
+<img width="520" height="350" alt="Dsahboard Scrnshrt" src="https://github.com/user-attachments/assets/60dacf09-d9dc-4727-a109-3c8ed19ea4ea" />
+
+---
