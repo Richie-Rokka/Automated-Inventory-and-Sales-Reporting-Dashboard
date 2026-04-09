@@ -18,7 +18,8 @@ By leveraging **Power Query, structured data modeling, and interactive dashboard
 
 ## 📊 Dashboard Preview
 
-<img width="449" height="351" alt="Dashboardv2" src="https://github.com/user-attachments/assets/b739444f-7b43-4698-9cef-7924b8dd6619" />
+<img width="449" height="350" alt="Dashboardv2" src="https://github.com/user-attachments/assets/125f5010-a8b2-49a2-9934-15779d85ae3b" />
+
 
 
 
