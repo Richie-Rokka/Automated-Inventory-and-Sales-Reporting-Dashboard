@@ -191,8 +191,7 @@ This project demonstrates capabilities aligned with:
 
 ## 📎 Project Files
 
-- `Dashboard.xlsx` – Interactive dashboard  
-- `Clean_Data.xlsx` – Processed dataset  
+- `Dashboard.xlsx` – Interactive dashboard  (contains `Clean_Data.xlsx` – Processed dataset  )
 - Dashboard screenshots  
 
 ---
