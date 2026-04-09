@@ -96,7 +96,7 @@ In this case, sales and inventory data were siloed, requiring manual merging and
 
 - The **West region** is the top-performing region in revenue generation  
 - **Computers and Mobile categories** drive the majority of total revenue  
-- **18 SKUs fall below reorder level**, indicating potential stockout risks  
+- **All SKUs are currently above reorder levels**, indicating a healthy inventory position with no immediate stockout risk
 - Sales exhibit **monthly variability**, with a dip in February followed by recovery 
 
 ---
@@ -104,8 +104,9 @@ In this case, sales and inventory data were siloed, requiring manual merging and
 ## 💡 Business Recommendations
 
 ### 📦 Inventory Optimization
-- Prioritize replenishment for SKUs below reorder levels  
-- Implement automated reorder triggers to reduce stockout risk  
+- Current inventory levels are healthy across all SKUs  
+- Continue monitoring stock levels to maintain optimal inventory balance  
+- Implement automated alerts to proactively detect future stock risks  
 
 ---
 
